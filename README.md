@@ -1,4 +1,4 @@
-# ONLINE BANKING ANALYSIS
+# Data Set is Based On Online Banking Analysis
 
 This is the first project where we worked on apache spark, In this project what we have done is that we downloaded the datasets from KAGGLE where everyone is aware of, we have downloaded loan, customers credit card and transactions datasets . After downloading the datsaets we have cleaned the data . Then after by using new tools and technologies like spark, HDFS, Hive and many more we have executed new use cases on the datasets, that we have downloaded from kaggle. As we all know apache spark is a framework that can quickly process the large datsets.
                             
@@ -17,5 +17,4 @@ This is the first project where we worked on apache spark, In this project what 
  Implemented Spark Session to load the data into Data Frames.
  Used standalone cluster mode in spark environment to run on Spark SQL queries.
 
-## license
-This project uses the following license: [MIT License](LICENSE)
+
